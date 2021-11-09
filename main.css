@@ -1,0 +1,14 @@
+body {
+    background-image :url(https://wallpaperaccess.com/full/859072.jpg);
+    background-position :cover;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.kk {
+    height: 20%;
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}

@@ -1,0 +1,103 @@
+.perso {
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    left: 90%;
+    top: 80%;
+    transform: translate(-50%, -50%);
+}
+.persodeux {
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    left: 10%;
+    top: 80%;
+    transform: translate(-50%, -50%);
+}
+.persotrois {
+    height: 40%;
+    width: 20%;
+    position: absolute;
+    left: 50%;
+    top: 80%;
+    transform: translate(-50%, -50%);
+}
+.name {
+    font-family: serif;
+    font-size: 20px;
+    color: azure;
+    position: absolute;
+    top: 75%;
+    left: 10%;
+}
+.suite {
+    font-size: 24px;
+    color: azure;
+    position: absolute;
+    top: 83%;
+    left: 70%;
+}
+.choixun {
+    font-size: 24px;
+    color: azure;
+    position: absolute;
+    top: 77%;
+    left: 70%;
+}
+.choixdeux {
+    font-size: 24px;
+    color: azure;
+    position: absolute;
+    top: 83%;
+    left: 70%;
+}
+.text {
+    font-size: 24px;
+    color: azure;
+    position: absolute;
+    top: 80%;
+    left: 10%;
+}
+.choixunimage {
+    height: 5%;
+    width: 15%;
+    position: absolute;
+    left: 70%;
+    top: 82%;
+    transform: translate(-50%, -50%);
+}
+.choixdeuximage {
+    height: 5%;
+    width: 15%;
+    position: absolute;
+    left: 70%;
+    top: 88%;
+    transform: translate(-50%, -50%);
+}
+.textzone {
+    height: 40%;
+    width: 90%;
+    position: absolute;
+    left: 40%;
+    top: 80%;
+    transform: translate(-50%, -50%);
+}
+.textsuite {
+    font-size: 24px;
+    color: azure;
+    position: absolute;
+    top: 80%;
+    left: 10%;
+}
+.backgroundcour {
+    background:url(debut.jpg)no-repeat center fixed ;
+    background-size:cover ;
+}
+.backgroundcouloiradmin {
+    background:url(routeadmin.jpg)no-repeat center fixed ;
+    background-size:cover ;
+}
+.backgroundclasse {
+    background:url(classe.png)no-repeat center fixed ;
+    background-size:cover ;
+}
